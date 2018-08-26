@@ -16,7 +16,11 @@ class Skills extends Component {
             "devicon-html5-plain-wordmark colored",
             "devicon-css3-plain-wordmark colored",
             "devicon-mysql-plain-wordmark colored",
-            "devicon-postgresql-plain-wordmark colored"
+            "devicon-postgresql-plain-wordmark colored",
+            "devicon-amazonwebservices-plain-wordmark colored",
+            "devicon-mongodb-plain-wordmark colored",
+            "devicon-git-plain-wordmark colored",
+            "devicon-bootstrap-plain-wordmark colored"
         ]
     }
     render() {
@@ -25,7 +29,7 @@ class Skills extends Component {
         })
         return (
             <div style={{height: "630px", backgroundColor: '#202020'}}>
-                <h2 style={{fontFamily: "'Ubuntu', sans-serif", color: 'white', margin: '0 auto', paddingTop: '30px', paddingBottom: '15px'}}>Skills</h2>
+                <h2 className="section-title">Skills</h2>
                 <Grid>
                     <Row>
                         {devIcons}
