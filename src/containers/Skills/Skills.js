@@ -29,7 +29,7 @@ class Skills extends Component {
         })
         return (
             <div style={{height: "630px", backgroundColor: '#202020'}}>
-                <h2 className="section-title">Skills</h2>
+                <h2 className="section-title" style={{color: 'white'}}>Skills</h2>
                 <Grid>
                     <Row>
                         {devIcons}

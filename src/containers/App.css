@@ -24,7 +24,7 @@ p {
 
 .section-title {
   font-family: 'Ubuntu', sans-serif;
-  color: white;
+  /* color: white; */
   margin: 0 auto;
   padding-top: 30px;
   padding-bottom: 20px;
