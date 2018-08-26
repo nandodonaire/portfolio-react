@@ -2,7 +2,7 @@ import React from 'react';
 import {Navbar, Nav, NavItem} from 'react-bootstrap';
 
 const NavBar = () => (
-    <Navbar inverse collapseOnSelect fixedTop>
+    <Navbar inverse collapseOnSelect fixedTop style={{fontFamily: "'Ubuntu', sans-serif"}}>
     <Navbar.Header>
         <Navbar.Brand>
         <a href="/">Fernando Donaire</a>
