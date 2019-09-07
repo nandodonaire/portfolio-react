@@ -8,19 +8,19 @@ class Skills extends Component {
             "devicon-javascript-plain colored",
             "devicon-react-original-wordmark colored",
             "devicon-php-plain colored",
-            "devicon-jquery-plain-wordmark colored",
+            "devicon-python-plain-wordmark colored",
+            "devicon-django-plain colored",
             "devicon-ruby-plain-wordmark colored",
             "devicon-rails-plain-wordmark colored",
             "devicon-angularjs-plain-wordmark colored",
             "devicon-nodejs-plain-wordmark colored",
+            "devicon-jquery-plain-wordmark colored",
             "devicon-html5-plain-wordmark colored",
             "devicon-css3-plain-wordmark colored",
             "devicon-mysql-plain-wordmark colored",
             "devicon-postgresql-plain-wordmark colored",
             "devicon-amazonwebservices-plain-wordmark colored",
-            "devicon-mongodb-plain-wordmark colored",
             "devicon-git-plain-wordmark colored",
-            "devicon-bootstrap-plain-wordmark colored"
         ]
     }
     render() {
